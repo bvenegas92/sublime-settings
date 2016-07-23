@@ -8,8 +8,8 @@ Plugins y configuraciones para Sublime Text
 ### [Pretty JSON]
 
 
-[Bracket Highlighter]: <https://github.com/facelessuser/BracketHighlighterr>
-[DocBlockr]: <https://github.com/facelessuser/BracketHighlighterr>
-[Emmet]: <https://github.com/facelessuser/BracketHighlighterr>
-[Highlighter]: <https://github.com/facelessuser/BracketHighlighterr>
-[Pretty JSON]: <https://github.com/facelessuser/BracketHighlighterr>
+[Bracket Highlighter]: <https://github.com/facelessuser/BracketHighlighter>
+[DocBlockr]: <https://github.com/facelessuser/BracketHighlighter>
+[Emmet]: <https://github.com/facelessuser/BracketHighlighter>
+[Highlighter]: <https://github.com/facelessuser/BracketHighlighter>
+[Pretty JSON]: <https://github.com/facelessuser/BracketHighlighter>

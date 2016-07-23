@@ -1,4 +1,5 @@
-# sublime-settings
+# Sublime
+Settings:
 ```json
 {
 	"bold_folder_labels": true,
@@ -19,6 +20,22 @@
 	"trim_trailing_white_space_on_save": false,
 	"word_wrap": true
 }
+```
+Theme:
+```xml
+<dict>
+	<key>name</key>
+	<string>Comment</string>
+	<key>scope</key>
+	<string>comment</string>
+	<key>settings</key>
+	<dict>
+		<key>background</key>
+		<string>#666666</string>
+		<key>foreground</key>
+		<string>#F2EFE1</string>
+	</dict>
+</dict>
 ```
 
 ### [Bracket Highlighter]

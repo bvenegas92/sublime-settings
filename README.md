@@ -1,4 +1,5 @@
 # sublime-settings
+```json
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
@@ -18,6 +19,7 @@
 	"trim_trailing_white_space_on_save": false,
 	"word_wrap": true
 }
+```
 
 ### [Bracket Highlighter]
 ### [DocBlockr]
